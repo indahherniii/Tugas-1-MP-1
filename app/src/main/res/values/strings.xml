@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BonBon</string>
+    <string name="lbl_post_count">31</string>
+    <string name="lbl_pengikut_count">740</string>
+    <string name="lbl_mengikuti_count">901</string>
+    <string name="lbl_post">Postingan</string>
+    <string name="lbl_pengikut">Pengikut</string>
+    <string name="lbl_mengikuti">Mengikuti</string>
+    <string name="lbl_username">Indah Putri Herni</string>
+    <string name="lbl_bio">One bad chapter doesn\'t mean u story is over</string>
+</resources>
